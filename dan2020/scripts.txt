@@ -1,0 +1,65 @@
+ssh gecici@172.16.16.10
+123456789
+
+#(tmux ls, tmux a -t[])#
+tmux
+/home/gecici/sratoolkit/bin/prefetch --option-file /home/gecici/ege/ege_acclist.txt
+#ctrl+b+d#
+
+tmux
+/home/gecici/sratoolkit/bin/prefetch --option-file /home/gecici/kaan/kaan_acclist.txa
+#ctrl+b+d#
+
+## Finds all .sra files in /runs folder and moves them into the /sra folder
+find /mnt/e/utkan/zou2020/sra -type f -name '*.sra' -exec mv -t /mnt/e/utkan/zou2020/sra {} + 
+
+## Extract fastq files from all .sra files in a folder
+for sra_file in /mnt/f/utkan/zou2020/sra/*.sra; do fasterq-dump $sra_file --outdir /mnt/f/utkan/zou2020/fastq; done
+
+for file in /mnt/e/ege_fastq/fastq/*_1.fastq; do basename "$file" .fastq >> /mnt/e/ege_fastq/output.txt; done
+
+
+qiime tools import \
+  --type 'SampleData[SequencesWithQuality]' \
+  --input-path /mnt/f/utkan/dan2020/manifest.txt \
+  --output-path /mnt/f/utkan/dan2020/files/dan2020singleend.qza \
+  --input-format SingleEndFastqManifestPhred33V2
+  
+qiime demux summarize --i-data /mnt/f/utkan/dan2020/files/dan2020singleend.qza --o-visualization /mnt/f/utkan/dan2020/files/dan2020singleend.qzv
+  
+qiime cutadapt trim-single \
+	--i-demultiplexed-sequences /mnt/f/utkan/dan2020/files/dan2020singleend.qza \
+	--p-front-f GTGCCAGCMGCCGCGGTAA \
+	--p-front-r GGACTACHVGGGTWTCTAAT \
+	--p-match-adapter-wildcards
+	--o-trimmed-sequences /mnt/f/utkan/dan2020/files/trimmed.qza
+	
+qiime demux summarize --i-data /mnt/f/utkan/dan2020/files/trimmed.qza --o-visualization /mnt/f/utkan/dan2020/files/trimmed.qzv
+
+qiime dada2 denoise-single \
+  --i-demultiplexed-seqs /mnt/f/utkan/dan2020/files/trimmed.qza \
+  --p-trim-left 0 \
+  --p-trunc-len 120 \
+  --o-representative-sequences /mnt/f/utkan/dan2020/files/rep-seqs-dada2.qza \
+  --o-table /mnt/f/utkan/dan2020/files/table-dada2.qza \
+  --o-denoising-stats /mnt/f/utkan/dan2020/files/stats-dada2.qza
+
+qiime metadata tabulate \
+	--m-input-file /mnt/f/utkan/dan2020/files/rep-seqs-dada2.qza\
+	--o-visualization /mnt/f/utkan/dan2020/files/rep-seqs-dada2.qzv
+	
+qiime phylogeny align-to-tree-mafft-fasttree \
+	--i-sequences  /mnt/f/utkan/dan2020/files/rep-seqs-dada2.qza \
+	--o-alignment  /mnt/f/utkan/dan2020/files/aligned_rep_seqs.qza \
+	--o-masked-alignment  /mnt/f/utkan/dan2020/files/masked_aligned_rep_seqs.qza \
+	--o-tree  /mnt/f/utkan/dan2020/files/unrooted_tree.qza \
+	--o-rooted-tree  /mnt/f/utkan/dan2020/files/rooted_tree.qza
+
+qiime tools export \
+	--input-path /mnt/f/utkan/dan2020/files/rooted_tree.qza \
+	--output-path /mnt/f/utkan/dan2020/files/tree/rooted_tree
+
+qiime feature-classifier classify-sklearn \
+	--i-classifier /mnt/f/utkan/silva_classifier.qza \
+	--i-reads /mnt/f/utkan/fouquier2021/rep_seqs.qza \
+	--o-classification /mnt/f/utkan/fouquier2021/silva_taxonomy.qza \

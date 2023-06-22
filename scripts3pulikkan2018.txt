@@ -1,0 +1,110 @@
+ssh gecici@172.16.16.10
+123456789
+
+#(tmux ls, tmux a -t[])#
+tmux
+/home/gecici/sratoolkit/bin/prefetch --option-file /home/gecici/utkan/utkan_acclist.txt
+#ctrl+b+d#
+
+tmux
+/home/gecici/sratoolkit/bin/prefetch --option-file /mnt/f/utkan/pulikkan2018/sraacclist.txt
+#ctrl+b+d#
+
+## Finds all .sra files in /runs folder and moves them into the /sra folder
+find /mnt/f/utkan/pulikkan2018/sra -type f -name '*.sra' -exec mv -t /mnt/f/utkan/pulikkan2018/sra {} + 
+
+## Extract fastq files from all .sra files in a folder
+for sra_file in /mnt/f/utkan/pulikkan2018/sra/*.sra; do fasterq-dump $sra_file --outdir /mnt/f/utkan/pulikkan2018/fastq; done
+
+ls | sed 's/_.*//' | sort | uniq > srr_codes.txt
+
+find /mnt/f/utkan/pulikkan2018/fastq -name "*_1.fastq" | sort -V > filenames1.txt
+find /mnt/f/utkan/pulikkan2018/fastq -name "*_2.fastq" | sort -V > filenames2.txt
+
+### while making an sh file 
+sed -i -e 's/\r$//' [filename.sh]
+to remove windows cr and make it runnable
+chmod +x filename.sh
+
+
+GTCTCGTGGGCTCGGAGATGTGTATAAGAGACAGCCTACGGGAGGCAGCAG Forward	
+TCGTCGGCAGCGTCAGATGTGTATAAGAGACAGATTACCGCGGCTGCTGGC 5Berse
+
+qiime tools import \
+  --type 'SampleData[PairedEndSequencesWithQuality]' \
+  --input-path /mnt/f/utkan/pulikkan2018/manifest3.txt \
+  --input-format PairedEndFastqManifestPhred33V2 \
+  --output-path /mnt/f/utkan/pulikkan2018/files/5B/pulikkan2018paired.qza
+  
+qiime demux summarize \
+  --i-data /mnt/f/utkan/pulikkan2018/files/5B/pulikkan2018paired.qza \
+  --o-visualization /mnt/f/utkan/pulikkan2018/files/5B/pulikkan2018paired.qzv
+
+qiime cutadapt trim-paired \
+  --i-demultiplexed-sequences /mnt/f/utkan/pulikkan2018/files/5B/pulikkan2018paired.qza \
+  --p-front-f TCGTCGGCAGCGTCAGATGTGTATAAGAGACAGCTACTCCTACGGGAGGCAGCAG \
+  --p-front-r GTCTCGTGGGCTCGGAGATGTGTATAAGAGACAGCATCTATTACCGCGGCTGCTGGC \
+  --o-trimmed-sequences /mnt/f/utkan/pulikkan2018/files/5B/trimmed.qza
+	
+qiime demux summarize \
+  --i-data /mnt/f/utkan/pulikkan2018/files/5B/trimmed.qza \
+  --o-visualization /mnt/f/utkan/pulikkan2018/files/5B/trimmed.qzv
+
+qiime dada2 denoise-paired \
+  --i-demultiplexed-seqs /mnt/f/utkan/pulikkan2018/files/5B/pulikkan2018paired.qza \
+  --p-trim-left-f 0 \
+  --p-trim-left-r 0 \
+  --p-trunc-len-f 148 \
+  --p-trunc-len-r 148 \
+  --o-representative-sequences /mnt/f/utkan/pulikkan2018/files/5B/rep-seqs-dada2.qza \
+  --o-table /mnt/f/utkan/pulikkan2018/files/5B/table-dada2.qza \
+  --o-denoising-stats /mnt/f/utkan/pulikkan2018/files/5B/stats-dada2.qza \
+  --p-n-threads 16
+  
+qiime metadata tabulate \
+  --m-input-file /mnt/f/utkan/pulikkan2018/files/5B/stats-dada2.qza\
+  --o-visualization /mnt/f/utkan/pulikkan2018/files/5B/stats-dada2.qzv
+	
+qiime metadata tabulate \
+  --m-input-file /mnt/f/utkan/pulikkan2018/files/5B/rep-seqs-dada2.qza\
+  --o-visualization /mnt/f/utkan/pulikkan2018/files/5B/rep-seqs-dada2.qzv	
+  
+qiime feature-table summarize \
+  --i-table /mnt/f/utkan/pulikkan2018/files/5B/table-dada2.qza \
+  --o-visualization /mnt/f/utkan/pulikkan2018/files/5B/table-dada2.qzv \
+  --m-sample-metadata-file /mnt/f/utkan/pulikkan2018/manifest3.txt
+  
+qiime phylogeny align-to-tree-mafft-fasttree \
+  --i-sequences  /mnt/f/utkan/pulikkan2018/files/5B/rep-seqs-dada2.qza \
+  --o-alignment  /mnt/f/utkan/pulikkan2018/files/5B/aligned_rep_seqs.qza \
+  --o-masked-alignment  /mnt/f/utkan/pulikkan2018/files/5B/masked_aligned_rep_seqs.qza \
+  --o-tree  /mnt/f/utkan/pulikkan2018/files/5B/unrooted_tree.qza \
+  --o-rooted-tree  /mnt/f/utkan/pulikkan2018/files/5B/rooted_tree.qza
+
+qiime tools export \
+  --input-path /mnt/f/utkan/pulikkan2018/files/5B/rooted_tree.qza \
+  --output-path /mnt/f/utkan/pulikkan2018/files/5B/tree/rooted_tree
+
+qiime feature-classifier classify-sklearn \
+  --i-classifier /mnt/f/utkan/silva_classifier.qza \
+  --i-reads /mnt/f/utkan/pulikkan2018/files/5B/rep-seqs-dada2.qza \
+  --o-classification /mnt/f/utkan/pulikkan2018/files/5B/silva_taxonomy.qza \
+	
+qiime metadata tabulate \
+  --m-input-file /mnt/f/utkan/pulikkan2018/files/5B/silva_taxonomy.qza \
+  --o-visualization /mnt/f/utkan/pulikkan2018/files/5B/silva_taxonomy.qzv
+  
+qiime taxa barplot \
+  --i-table /mnt/f/utkan/pulikkan2018/files/5B/table-dada2.qza \
+  --i-taxonomy /mnt/f/utkan/pulikkan2018/files/5B/silva_taxonomy.qza \
+  --m-metadata-file /mnt/f/utkan/pulikkan2018/manifest3.txt \
+  --o-visualization /mnt/f/utkan/pulikkan2018/files/5B/taxa-bar-plots.qzv
+  
+qiime diversity core-metrics-phylogenetic \
+  --i-phylogeny /mnt/f/utkan/pulikkan2018/files/5B/rooted_tree.qza \
+  --i-table /mnt/f/utkan/pulikkan2018/files/5B/table-dada2.qza \
+  --p-sampling-depth 24678 \
+  --m-metadata-file /mnt/f/utkan/pulikkan2018/manifest3.txt \
+  --output-dir /mnt/f/utkan/pulikkan2018/files/5B/diversity
+
+  

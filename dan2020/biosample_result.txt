@@ -1,0 +1,1430 @@
+
+1. A100_16S rRNA
+Identifiers:	BioSample: SAMN12249413; SRA: SRS5083062; GEO: GSM3936520
+Organism:	feces metagenome
+Accession: SAMN12249413	ID: 12249413
+
+2. A101_16S rRNA
+Identifiers:	BioSample: SAMN12249412; SRA: SRS5083063; GEO: GSM3936521
+Organism:	feces metagenome
+Accession: SAMN12249412	ID: 12249412
+
+3. A102_16S rRNA
+Identifiers:	BioSample: SAMN12249411; SRA: SRS5083064; GEO: GSM3936522
+Organism:	feces metagenome
+Accession: SAMN12249411	ID: 12249411
+
+4. A104_16S rRNA
+Identifiers:	BioSample: SAMN12249410; SRA: SRS5083065; GEO: GSM3936523
+Organism:	feces metagenome
+Accession: SAMN12249410	ID: 12249410
+
+5. A105_16S rRNA
+Identifiers:	BioSample: SAMN12249409; SRA: SRS5083066; GEO: GSM3936524
+Organism:	feces metagenome
+Accession: SAMN12249409	ID: 12249409
+
+6. A106_16S rRNA
+Identifiers:	BioSample: SAMN12249408; SRA: SRS5083068; GEO: GSM3936525
+Organism:	feces metagenome
+Accession: SAMN12249408	ID: 12249408
+
+7. A108_16S rRNA
+Identifiers:	BioSample: SAMN12249407; SRA: SRS5083067; GEO: GSM3936526
+Organism:	feces metagenome
+Accession: SAMN12249407	ID: 12249407
+
+8. A109_16S rRNA
+Identifiers:	BioSample: SAMN12249406; SRA: SRS5083069; GEO: GSM3936527
+Organism:	feces metagenome
+Accession: SAMN12249406	ID: 12249406
+
+9. A11_16S rRNA
+Identifiers:	BioSample: SAMN12249405; SRA: SRS5083070; GEO: GSM3936528
+Organism:	feces metagenome
+Accession: SAMN12249405	ID: 12249405
+
+10. A118_16S rRNA
+Identifiers:	BioSample: SAMN12249404; SRA: SRS5083079; GEO: GSM3936537
+Organism:	feces metagenome
+Accession: SAMN12249404	ID: 12249404
+
+11. A119_16S rRNA
+Identifiers:	BioSample: SAMN12249403; SRA: SRS5083080; GEO: GSM3936538
+Organism:	feces metagenome
+Accession: SAMN12249403	ID: 12249403
+
+12. A12_16S rRNA
+Identifiers:	BioSample: SAMN12249402; SRA: SRS5083082; GEO: GSM3936539
+Organism:	feces metagenome
+Accession: SAMN12249402	ID: 12249402
+
+13. A120_16S rRNA
+Identifiers:	BioSample: SAMN12249401; SRA: SRS5083081; GEO: GSM3936540
+Organism:	feces metagenome
+Accession: SAMN12249401	ID: 12249401
+
+14. A121_16S rRNA
+Identifiers:	BioSample: SAMN12249400; SRA: SRS5083083; GEO: GSM3936541
+Organism:	feces metagenome
+Accession: SAMN12249400	ID: 12249400
+
+15. A122_16S rRNA
+Identifiers:	BioSample: SAMN12249399; SRA: SRS5083084; GEO: GSM3936542
+Organism:	feces metagenome
+Accession: SAMN12249399	ID: 12249399
+
+16. A123_16S rRNA
+Identifiers:	BioSample: SAMN12249398; SRA: SRS5083085; GEO: GSM3936543
+Organism:	feces metagenome
+Accession: SAMN12249398	ID: 12249398
+
+17. A124_16S rRNA
+Identifiers:	BioSample: SAMN12249397; SRA: SRS5083086; GEO: GSM3936544
+Organism:	feces metagenome
+Accession: SAMN12249397	ID: 12249397
+
+18. A125_16S rRNA
+Identifiers:	BioSample: SAMN12249396; SRA: SRS5083087; GEO: GSM3936545
+Organism:	feces metagenome
+Accession: SAMN12249396	ID: 12249396
+
+19. A126_16S rRNA
+Identifiers:	BioSample: SAMN12249395; SRA: SRS5083088; GEO: GSM3936546
+Organism:	feces metagenome
+Accession: SAMN12249395	ID: 12249395
+
+20. A129_16S rRNA
+Identifiers:	BioSample: SAMN12249394; SRA: SRS5083090; GEO: GSM3936548
+Organism:	feces metagenome
+Accession: SAMN12249394	ID: 12249394
+
+21. A130_16S rRNA
+Identifiers:	BioSample: SAMN12249393; SRA: SRS5083091; GEO: GSM3936549
+Organism:	feces metagenome
+Accession: SAMN12249393	ID: 12249393
+
+22. A131_16S rRNA
+Identifiers:	BioSample: SAMN12249392; SRA: SRS5083108; GEO: GSM3936550
+Organism:	feces metagenome
+Accession: SAMN12249392	ID: 12249392
+
+23. A132_16S rRNA
+Identifiers:	BioSample: SAMN12249391; SRA: SRS5083109; GEO: GSM3936551
+Organism:	feces metagenome
+Accession: SAMN12249391	ID: 12249391
+
+24. A128_16S rRNA
+Identifiers:	BioSample: SAMN12249390; SRA: SRS5083089; GEO: GSM3936547
+Organism:	feces metagenome
+Accession: SAMN12249390	ID: 12249390
+
+25. A133_16S rRNA
+Identifiers:	BioSample: SAMN12249389; SRA: SRS5083110; GEO: GSM3936552
+Organism:	feces metagenome
+Accession: SAMN12249389	ID: 12249389
+
+26. A135_16S rRNA
+Identifiers:	BioSample: SAMN12249388; SRA: SRS5083111; GEO: GSM3936553
+Organism:	feces metagenome
+Accession: SAMN12249388	ID: 12249388
+
+27. A136_16S rRNA
+Identifiers:	BioSample: SAMN12249387; SRA: SRS5083112; GEO: GSM3936554
+Organism:	feces metagenome
+Accession: SAMN12249387	ID: 12249387
+
+28. A137_16S rRNA
+Identifiers:	BioSample: SAMN12249386; SRA: SRS5083113; GEO: GSM3936555
+Organism:	feces metagenome
+Accession: SAMN12249386	ID: 12249386
+
+29. A139_16S rRNA
+Identifiers:	BioSample: SAMN12249385; SRA: SRS5083114; GEO: GSM3936556
+Organism:	feces metagenome
+Accession: SAMN12249385	ID: 12249385
+
+30. A14_16S rRNA
+Identifiers:	BioSample: SAMN12249384; SRA: SRS5083115; GEO: GSM3936557
+Organism:	feces metagenome
+Accession: SAMN12249384	ID: 12249384
+
+31. A1_16S rRNA
+Identifiers:	BioSample: SAMN12249383; SRA: SRS5083059; GEO: GSM3936518
+Organism:	feces metagenome
+Accession: SAMN12249383	ID: 12249383
+
+32. A10_16S rRNA
+Identifiers:	BioSample: SAMN12249382; SRA: SRS5083060; GEO: GSM3936519
+Organism:	feces metagenome
+Accession: SAMN12249382	ID: 12249382
+
+33. B124_16S rRNA
+Identifiers:	BioSample: SAMN12249380; SRA: SRS5083099; GEO: GSM3936685
+Organism:	feces metagenome
+Accession: SAMN12249380	ID: 12249380
+
+34. B125_16S rRNA
+Identifiers:	BioSample: SAMN12249379; SRA: SRS5083100; GEO: GSM3936686
+Organism:	feces metagenome
+Accession: SAMN12249379	ID: 12249379
+
+35. B126_16S rRNA
+Identifiers:	BioSample: SAMN12249378; SRA: SRS5083102; GEO: GSM3936687
+Organism:	feces metagenome
+Accession: SAMN12249378	ID: 12249378
+
+36. B127_16S rRNA
+Identifiers:	BioSample: SAMN12249377; SRA: SRS5083101; GEO: GSM3936688
+Organism:	feces metagenome
+Accession: SAMN12249377	ID: 12249377
+
+37. B128_16S rRNA
+Identifiers:	BioSample: SAMN12249376; SRA: SRS5083103; GEO: GSM3936689
+Organism:	feces metagenome
+Accession: SAMN12249376	ID: 12249376
+
+38. B129_16S rRNA
+Identifiers:	BioSample: SAMN12249375; SRA: SRS5083104; GEO: GSM3936690
+Organism:	feces metagenome
+Accession: SAMN12249375	ID: 12249375
+
+39. B13_16S rRNA
+Identifiers:	BioSample: SAMN12249374; SRA: SRS5083105; GEO: GSM3936691
+Organism:	feces metagenome
+Accession: SAMN12249374	ID: 12249374
+
+40. B131_16S rRNA
+Identifiers:	BioSample: SAMN12249373; SRA: SRS5083107; GEO: GSM3936692
+Organism:	feces metagenome
+Accession: SAMN12249373	ID: 12249373
+
+41. B132_16S rRNA
+Identifiers:	BioSample: SAMN12249372; SRA: SRS5083106; GEO: GSM3936693
+Organism:	feces metagenome
+Accession: SAMN12249372	ID: 12249372
+
+42. B133_16S rRNA
+Identifiers:	BioSample: SAMN12249371; SRA: SRS5083124; GEO: GSM3936694
+Organism:	feces metagenome
+Accession: SAMN12249371	ID: 12249371
+
+43. B134_16S rRNA
+Identifiers:	BioSample: SAMN12249370; SRA: SRS5083126; GEO: GSM3936695
+Organism:	feces metagenome
+Accession: SAMN12249370	ID: 12249370
+
+44. B135_16S rRNA
+Identifiers:	BioSample: SAMN12249369; SRA: SRS5083125; GEO: GSM3936696
+Organism:	feces metagenome
+Accession: SAMN12249369	ID: 12249369
+
+45. B136_16S rRNA
+Identifiers:	BioSample: SAMN12249368; SRA: SRS5083127; GEO: GSM3936697
+Organism:	feces metagenome
+Accession: SAMN12249368	ID: 12249368
+
+46. B137_16S rRNA
+Identifiers:	BioSample: SAMN12249367; SRA: SRS5083128; GEO: GSM3936698
+Organism:	feces metagenome
+Accession: SAMN12249367	ID: 12249367
+
+47. A110_16S rRNA
+Identifiers:	BioSample: SAMN12249366; SRA: SRS5083071; GEO: GSM3936529
+Organism:	feces metagenome
+Accession: SAMN12249366	ID: 12249366
+
+48. A111_16S rRNA
+Identifiers:	BioSample: SAMN12249365; SRA: SRS5083072; GEO: GSM3936530
+Organism:	feces metagenome
+Accession: SAMN12249365	ID: 12249365
+
+49. A112_16S rRNA
+Identifiers:	BioSample: SAMN12249364; SRA: SRS5083073; GEO: GSM3936531
+Organism:	feces metagenome
+Accession: SAMN12249364	ID: 12249364
+
+50. A113_16S rRNA
+Identifiers:	BioSample: SAMN12249363; SRA: SRS5083074; GEO: GSM3936532
+Organism:	feces metagenome
+Accession: SAMN12249363	ID: 12249363
+
+51. A114_16S rRNA
+Identifiers:	BioSample: SAMN12249362; SRA: SRS5083076; GEO: GSM3936533
+Organism:	feces metagenome
+Accession: SAMN12249362	ID: 12249362
+
+52. A115_16S rRNA
+Identifiers:	BioSample: SAMN12249361; SRA: SRS5083075; GEO: GSM3936534
+Organism:	feces metagenome
+Accession: SAMN12249361	ID: 12249361
+
+53. A116_16S rRNA
+Identifiers:	BioSample: SAMN12249360; SRA: SRS5083078; GEO: GSM3936535
+Organism:	feces metagenome
+Accession: SAMN12249360	ID: 12249360
+
+54. A117_16S rRNA
+Identifiers:	BioSample: SAMN12249359; SRA: SRS5083077; GEO: GSM3936536
+Organism:	feces metagenome
+Accession: SAMN12249359	ID: 12249359
+
+55. A27_16S rRNA
+Identifiers:	BioSample: SAMN12249358; SRA: SRS5083205; GEO: GSM3936599
+Organism:	feces metagenome
+Accession: SAMN12249358	ID: 12249358
+
+56. A28_16S rRNA
+Identifiers:	BioSample: SAMN12249357; SRA: SRS5083206; GEO: GSM3936600
+Organism:	feces metagenome
+Accession: SAMN12249357	ID: 12249357
+
+57. A29_16S rRNA
+Identifiers:	BioSample: SAMN12249356; SRA: SRS5083207; GEO: GSM3936601
+Organism:	feces metagenome
+Accession: SAMN12249356	ID: 12249356
+
+58. A3_16S rRNA
+Identifiers:	BioSample: SAMN12249355; SRA: SRS5083208; GEO: GSM3936602
+Organism:	feces metagenome
+Accession: SAMN12249355	ID: 12249355
+
+59. A31_16S rRNA
+Identifiers:	BioSample: SAMN12249354; SRA: SRS5083209; GEO: GSM3936603
+Organism:	feces metagenome
+Accession: SAMN12249354	ID: 12249354
+
+60. A32_16S rRNA
+Identifiers:	BioSample: SAMN12249353; SRA: SRS5083210; GEO: GSM3936604
+Organism:	feces metagenome
+Accession: SAMN12249353	ID: 12249353
+
+61. A33_16S rRNA
+Identifiers:	BioSample: SAMN12249352; SRA: SRS5083211; GEO: GSM3936605
+Organism:	feces metagenome
+Accession: SAMN12249352	ID: 12249352
+
+62. A34_16S rRNA
+Identifiers:	BioSample: SAMN12249351; SRA: SRS5083212; GEO: GSM3936606
+Organism:	feces metagenome
+Accession: SAMN12249351	ID: 12249351
+
+63. A35_16S rRNA
+Identifiers:	BioSample: SAMN12249350; SRA: SRS5083213; GEO: GSM3936607
+Organism:	feces metagenome
+Accession: SAMN12249350	ID: 12249350
+
+64. A40_16S rRNA
+Identifiers:	BioSample: SAMN12249349; SRA: SRS5083214; GEO: GSM3936608
+Organism:	feces metagenome
+Accession: SAMN12249349	ID: 12249349
+
+65. A43_16S rRNA
+Identifiers:	BioSample: SAMN12249348; SRA: SRS5083215; GEO: GSM3936609
+Organism:	feces metagenome
+Accession: SAMN12249348	ID: 12249348
+
+66. A45_16S rRNA
+Identifiers:	BioSample: SAMN12249347; SRA: SRS5083216; GEO: GSM3936610
+Organism:	feces metagenome
+Accession: SAMN12249347	ID: 12249347
+
+67. A46_16S rRNA
+Identifiers:	BioSample: SAMN12249346; SRA: SRS5083217; GEO: GSM3936611
+Organism:	feces metagenome
+Accession: SAMN12249346	ID: 12249346
+
+68. A47_16S rRNA
+Identifiers:	BioSample: SAMN12249345; SRA: SRS5083218; GEO: GSM3936612
+Organism:	feces metagenome
+Accession: SAMN12249345	ID: 12249345
+
+69. A49_16S rRNA
+Identifiers:	BioSample: SAMN12249344; SRA: SRS5083219; GEO: GSM3936613
+Organism:	feces metagenome
+Accession: SAMN12249344	ID: 12249344
+
+70. A5_16S rRNA
+Identifiers:	BioSample: SAMN12249343; SRA: SRS5083236; GEO: GSM3936614
+Organism:	feces metagenome
+Accession: SAMN12249343	ID: 12249343
+
+71. B109_16S rRNA
+Identifiers:	BioSample: SAMN12249342; SRA: SRS5083339; GEO: GSM3936671
+Organism:	feces metagenome
+Accession: SAMN12249342	ID: 12249342
+
+72. B11_16S rRNA
+Identifiers:	BioSample: SAMN12249341; SRA: SRS5083340; GEO: GSM3936672
+Organism:	feces metagenome
+Accession: SAMN12249341	ID: 12249341
+
+73. B111_16S rRNA
+Identifiers:	BioSample: SAMN12249340; SRA: SRS5083341; GEO: GSM3936673
+Organism:	feces metagenome
+Accession: SAMN12249340	ID: 12249340
+
+74. B112_16S rRNA
+Identifiers:	BioSample: SAMN12249339; SRA: SRS5083342; GEO: GSM3936674
+Organism:	feces metagenome
+Accession: SAMN12249339	ID: 12249339
+
+75. B113_16S rRNA
+Identifiers:	BioSample: SAMN12249338; SRA: SRS5083344; GEO: GSM3936675
+Organism:	feces metagenome
+Accession: SAMN12249338	ID: 12249338
+
+76. B114_16S rRNA
+Identifiers:	BioSample: SAMN12249337; SRA: SRS5083343; GEO: GSM3936676
+Organism:	feces metagenome
+Accession: SAMN12249337	ID: 12249337
+
+77. B115_16S rRNA
+Identifiers:	BioSample: SAMN12249336; SRA: SRS5083345; GEO: GSM3936677
+Organism:	feces metagenome
+Accession: SAMN12249336	ID: 12249336
+
+78. B116_16S rRNA
+Identifiers:	BioSample: SAMN12249335; SRA: SRS5083092; GEO: GSM3936678
+Organism:	feces metagenome
+Accession: SAMN12249335	ID: 12249335
+
+79. B117_16S rRNA
+Identifiers:	BioSample: SAMN12249334; SRA: SRS5083093; GEO: GSM3936679
+Organism:	feces metagenome
+Accession: SAMN12249334	ID: 12249334
+
+80. B119_16S rRNA
+Identifiers:	BioSample: SAMN12249333; SRA: SRS5083095; GEO: GSM3936680
+Organism:	feces metagenome
+Accession: SAMN12249333	ID: 12249333
+
+81. B12_16S rRNA
+Identifiers:	BioSample: SAMN12249332; SRA: SRS5083094; GEO: GSM3936681
+Organism:	feces metagenome
+Accession: SAMN12249332	ID: 12249332
+
+82. B120_16S rRNA
+Identifiers:	BioSample: SAMN12249331; SRA: SRS5083096; GEO: GSM3936682
+Organism:	feces metagenome
+Accession: SAMN12249331	ID: 12249331
+
+83. B122_16S rRNA
+Identifiers:	BioSample: SAMN12249330; SRA: SRS5083097; GEO: GSM3936683
+Organism:	feces metagenome
+Accession: SAMN12249330	ID: 12249330
+
+84. B123_16S rRNA
+Identifiers:	BioSample: SAMN12249329; SRA: SRS5083098; GEO: GSM3936684
+Organism:	feces metagenome
+Accession: SAMN12249329	ID: 12249329
+
+85. B94_16S rRNA
+Identifiers:	BioSample: SAMN12249328; SRA: SRS5083324; GEO: GSM3936798
+Organism:	feces metagenome
+Accession: SAMN12249328	ID: 12249328
+
+86. B95_16S rRNA
+Identifiers:	BioSample: SAMN12249327; SRA: SRS5083325; GEO: GSM3936799
+Organism:	feces metagenome
+Accession: SAMN12249327	ID: 12249327
+
+87. B96_16S rRNA
+Identifiers:	BioSample: SAMN12249326; SRA: SRS5083326; GEO: GSM3936800
+Organism:	feces metagenome
+Accession: SAMN12249326	ID: 12249326
+
+88. B97_16S rRNA
+Identifiers:	BioSample: SAMN12249325; SRA: SRS5083327; GEO: GSM3936801
+Organism:	feces metagenome
+Accession: SAMN12249325	ID: 12249325
+
+89. B98_16S rRNA
+Identifiers:	BioSample: SAMN12249324; SRA: SRS5083329; GEO: GSM3936802
+Organism:	feces metagenome
+Accession: SAMN12249324	ID: 12249324
+
+90. B99_16S rRNA
+Identifiers:	BioSample: SAMN12249323; SRA: SRS5083328; GEO: GSM3936803
+Organism:	feces metagenome
+Accession: SAMN12249323	ID: 12249323
+
+91. A167_16S rRNA
+Identifiers:	BioSample: SAMN12249321; SRA: SRS5083176; GEO: GSM3936586
+Organism:	feces metagenome
+Accession: SAMN12249321	ID: 12249321
+
+92. A168_16S rRNA
+Identifiers:	BioSample: SAMN12249320; SRA: SRS5083177; GEO: GSM3936587
+Organism:	feces metagenome
+Accession: SAMN12249320	ID: 12249320
+
+93. A169_16S rRNA
+Identifiers:	BioSample: SAMN12249319; SRA: SRS5083179; GEO: GSM3936588
+Organism:	feces metagenome
+Accession: SAMN12249319	ID: 12249319
+
+94. A17_16S rRNA
+Identifiers:	BioSample: SAMN12249318; SRA: SRS5083178; GEO: GSM3936589
+Organism:	feces metagenome
+Accession: SAMN12249318	ID: 12249318
+
+95. A18_16S rRNA
+Identifiers:	BioSample: SAMN12249317; SRA: SRS5083180; GEO: GSM3936590
+Organism:	feces metagenome
+Accession: SAMN12249317	ID: 12249317
+
+96. A19_16S rRNA
+Identifiers:	BioSample: SAMN12249316; SRA: SRS5083181; GEO: GSM3936591
+Organism:	feces metagenome
+Accession: SAMN12249316	ID: 12249316
+
+97. A2_16S rRNA
+Identifiers:	BioSample: SAMN12249315; SRA: SRS5083182; GEO: GSM3936592
+Organism:	feces metagenome
+Accession: SAMN12249315	ID: 12249315
+
+98. A20_16S rRNA
+Identifiers:	BioSample: SAMN12249314; SRA: SRS5083183; GEO: GSM3936593
+Organism:	feces metagenome
+Accession: SAMN12249314	ID: 12249314
+
+99. A21_16S rRNA
+Identifiers:	BioSample: SAMN12249313; SRA: SRS5083184; GEO: GSM3936594
+Organism:	feces metagenome
+Accession: SAMN12249313	ID: 12249313
+
+100. A22_16S rRNA
+Identifiers:	BioSample: SAMN12249312; SRA: SRS5083185; GEO: GSM3936595
+Organism:	feces metagenome
+Accession: SAMN12249312	ID: 12249312
+
+101. A23_16S rRNA
+Identifiers:	BioSample: SAMN12249311; SRA: SRS5083186; GEO: GSM3936596
+Organism:	feces metagenome
+Accession: SAMN12249311	ID: 12249311
+
+102. A25_16S rRNA
+Identifiers:	BioSample: SAMN12249310; SRA: SRS5083187; GEO: GSM3936597
+Organism:	feces metagenome
+Accession: SAMN12249310	ID: 12249310
+
+103. A26_16S rRNA
+Identifiers:	BioSample: SAMN12249309; SRA: SRS5083204; GEO: GSM3936598
+Organism:	feces metagenome
+Accession: SAMN12249309	ID: 12249309
+
+104. A152_16S rRNA
+Identifiers:	BioSample: SAMN12249308; SRA: SRS5083144; GEO: GSM3936570
+Organism:	feces metagenome
+Accession: SAMN12249308	ID: 12249308
+
+105. A153_16S rRNA
+Identifiers:	BioSample: SAMN12249307; SRA: SRS5083145; GEO: GSM3936571
+Organism:	feces metagenome
+Accession: SAMN12249307	ID: 12249307
+
+106. A154_16S rRNA
+Identifiers:	BioSample: SAMN12249306; SRA: SRS5083147; GEO: GSM3936572
+Organism:	feces metagenome
+Accession: SAMN12249306	ID: 12249306
+
+107. A155_16S rRNA
+Identifiers:	BioSample: SAMN12249305; SRA: SRS5083146; GEO: GSM3936573
+Organism:	feces metagenome
+Accession: SAMN12249305	ID: 12249305
+
+108. A156_16S rRNA
+Identifiers:	BioSample: SAMN12249304; SRA: SRS5083148; GEO: GSM3936574
+Organism:	feces metagenome
+Accession: SAMN12249304	ID: 12249304
+
+109. A157_16S rRNA
+Identifiers:	BioSample: SAMN12249303; SRA: SRS5083149; GEO: GSM3936575
+Organism:	feces metagenome
+Accession: SAMN12249303	ID: 12249303
+
+110. A158_16S rRNA
+Identifiers:	BioSample: SAMN12249302; SRA: SRS5083150; GEO: GSM3936576
+Organism:	feces metagenome
+Accession: SAMN12249302	ID: 12249302
+
+111. A159_16S rRNA
+Identifiers:	BioSample: SAMN12249301; SRA: SRS5083151; GEO: GSM3936577
+Organism:	feces metagenome
+Accession: SAMN12249301	ID: 12249301
+
+112. A16_16S rRNA
+Identifiers:	BioSample: SAMN12249300; SRA: SRS5083152; GEO: GSM3936578
+Organism:	feces metagenome
+Accession: SAMN12249300	ID: 12249300
+
+113. A160_16S rRNA
+Identifiers:	BioSample: SAMN12249299; SRA: SRS5083154; GEO: GSM3936579
+Organism:	feces metagenome
+Accession: SAMN12249299	ID: 12249299
+
+114. A161_16S rRNA
+Identifiers:	BioSample: SAMN12249298; SRA: SRS5083153; GEO: GSM3936580
+Organism:	feces metagenome
+Accession: SAMN12249298	ID: 12249298
+
+115. A162_16S rRNA
+Identifiers:	BioSample: SAMN12249297; SRA: SRS5083155; GEO: GSM3936581
+Organism:	feces metagenome
+Accession: SAMN12249297	ID: 12249297
+
+116. A163_16S rRNA
+Identifiers:	BioSample: SAMN12249296; SRA: SRS5083172; GEO: GSM3936582
+Organism:	feces metagenome
+Accession: SAMN12249296	ID: 12249296
+
+117. A164_16S rRNA
+Identifiers:	BioSample: SAMN12249295; SRA: SRS5083173; GEO: GSM3936583
+Organism:	feces metagenome
+Accession: SAMN12249295	ID: 12249295
+
+118. A165_16S rRNA
+Identifiers:	BioSample: SAMN12249294; SRA: SRS5083174; GEO: GSM3936584
+Organism:	feces metagenome
+Accession: SAMN12249294	ID: 12249294
+
+119. A166_16S rRNA
+Identifiers:	BioSample: SAMN12249293; SRA: SRS5083175; GEO: GSM3936585
+Organism:	feces metagenome
+Accession: SAMN12249293	ID: 12249293
+
+120. B74_16S rRNA
+Identifiers:	BioSample: SAMN12249292; SRA: SRS5083294; GEO: GSM3936783
+Organism:	feces metagenome
+Accession: SAMN12249292	ID: 12249292
+
+121. B75_16S rRNA
+Identifiers:	BioSample: SAMN12249291; SRA: SRS5083293; GEO: GSM3936784
+Organism:	feces metagenome
+Accession: SAMN12249291	ID: 12249291
+
+122. B77_16S rRNA
+Identifiers:	BioSample: SAMN12249290; SRA: SRS5083295; GEO: GSM3936785
+Organism:	feces metagenome
+Accession: SAMN12249290	ID: 12249290
+
+123. B79_16S rRNA
+Identifiers:	BioSample: SAMN12249289; SRA: SRS5083297; GEO: GSM3936786
+Organism:	feces metagenome
+Accession: SAMN12249289	ID: 12249289
+
+124. B8_16S rRNA
+Identifiers:	BioSample: SAMN12249288; SRA: SRS5083296; GEO: GSM3936787
+Organism:	feces metagenome
+Accession: SAMN12249288	ID: 12249288
+
+125. B80_16S rRNA
+Identifiers:	BioSample: SAMN12249287; SRA: SRS5083298; GEO: GSM3936788
+Organism:	feces metagenome
+Accession: SAMN12249287	ID: 12249287
+
+126. B81_16S rRNA
+Identifiers:	BioSample: SAMN12249286; SRA: SRS5083299; GEO: GSM3936789
+Organism:	feces metagenome
+Accession: SAMN12249286	ID: 12249286
+
+127. B82_16S rRNA
+Identifiers:	BioSample: SAMN12249285; SRA: SRS5083316; GEO: GSM3936790
+Organism:	feces metagenome
+Accession: SAMN12249285	ID: 12249285
+
+128. B85_16S rRNA
+Identifiers:	BioSample: SAMN12249284; SRA: SRS5083317; GEO: GSM3936791
+Organism:	feces metagenome
+Accession: SAMN12249284	ID: 12249284
+
+129. B86_16S rRNA
+Identifiers:	BioSample: SAMN12249283; SRA: SRS5083318; GEO: GSM3936792
+Organism:	feces metagenome
+Accession: SAMN12249283	ID: 12249283
+
+130. B87_16S rRNA
+Identifiers:	BioSample: SAMN12249282; SRA: SRS5083319; GEO: GSM3936793
+Organism:	feces metagenome
+Accession: SAMN12249282	ID: 12249282
+
+131. B88_16S rRNA
+Identifiers:	BioSample: SAMN12249281; SRA: SRS5083320; GEO: GSM3936794
+Organism:	feces metagenome
+Accession: SAMN12249281	ID: 12249281
+
+132. B9_16S rRNA
+Identifiers:	BioSample: SAMN12249280; SRA: SRS5083321; GEO: GSM3936795
+Organism:	feces metagenome
+Accession: SAMN12249280	ID: 12249280
+
+133. B91_16S rRNA
+Identifiers:	BioSample: SAMN12249279; SRA: SRS5083322; GEO: GSM3936796
+Organism:	feces metagenome
+Accession: SAMN12249279	ID: 12249279
+
+134. B92_16S rRNA
+Identifiers:	BioSample: SAMN12249278; SRA: SRS5083323; GEO: GSM3936797
+Organism:	feces metagenome
+Accession: SAMN12249278	ID: 12249278
+
+135. B21_16S rRNA
+Identifiers:	BioSample: SAMN12249277; SRA: SRS5083195; GEO: GSM3936734
+Organism:	feces metagenome
+Accession: SAMN12249277	ID: 12249277
+
+136. B22_16S rRNA
+Identifiers:	BioSample: SAMN12249276; SRA: SRS5083197; GEO: GSM3936735
+Organism:	feces metagenome
+Accession: SAMN12249276	ID: 12249276
+
+137. B23_16S rRNA
+Identifiers:	BioSample: SAMN12249275; SRA: SRS5083198; GEO: GSM3936736
+Organism:	feces metagenome
+Accession: SAMN12249275	ID: 12249275
+
+138. B24_16S rRNA
+Identifiers:	BioSample: SAMN12249274; SRA: SRS5083199; GEO: GSM3936737
+Organism:	feces metagenome
+Accession: SAMN12249274	ID: 12249274
+
+139. B25_16S rRNA
+Identifiers:	BioSample: SAMN12249273; SRA: SRS5083200; GEO: GSM3936738
+Organism:	feces metagenome
+Accession: SAMN12249273	ID: 12249273
+
+140. B26_16S rRNA
+Identifiers:	BioSample: SAMN12249272; SRA: SRS5083201; GEO: GSM3936739
+Organism:	feces metagenome
+Accession: SAMN12249272	ID: 12249272
+
+141. B27_16S rRNA
+Identifiers:	BioSample: SAMN12249271; SRA: SRS5083202; GEO: GSM3936740
+Organism:	feces metagenome
+Accession: SAMN12249271	ID: 12249271
+
+142. B28_16S rRNA
+Identifiers:	BioSample: SAMN12249270; SRA: SRS5083203; GEO: GSM3936741
+Organism:	feces metagenome
+Accession: SAMN12249270	ID: 12249270
+
+143. B29_16S rRNA
+Identifiers:	BioSample: SAMN12249269; SRA: SRS5083220; GEO: GSM3936742
+Organism:	feces metagenome
+Accession: SAMN12249269	ID: 12249269
+
+144. B3_16S rRNA
+Identifiers:	BioSample: SAMN12249267; SRA: SRS5083221; GEO: GSM3936743
+Organism:	feces metagenome
+Accession: SAMN12249267	ID: 12249267
+
+145. B30_16S rRNA
+Identifiers:	BioSample: SAMN12249266; SRA: SRS5083222; GEO: GSM3936744
+Organism:	feces metagenome
+Accession: SAMN12249266	ID: 12249266
+
+146. B31_16S rRNA
+Identifiers:	BioSample: SAMN12249265; SRA: SRS5083223; GEO: GSM3936745
+Organism:	feces metagenome
+Accession: SAMN12249265	ID: 12249265
+
+147. B34_16S rRNA
+Identifiers:	BioSample: SAMN12249264; SRA: SRS5083224; GEO: GSM3936746
+Organism:	feces metagenome
+Accession: SAMN12249264	ID: 12249264
+
+148. B35_16S rRNA
+Identifiers:	BioSample: SAMN12249263; SRA: SRS5083225; GEO: GSM3936747
+Organism:	feces metagenome
+Accession: SAMN12249263	ID: 12249263
+
+149. B36_16S rRNA
+Identifiers:	BioSample: SAMN12249262; SRA: SRS5083226; GEO: GSM3936748
+Organism:	feces metagenome
+Accession: SAMN12249262	ID: 12249262
+
+150. B37_16S rRNA
+Identifiers:	BioSample: SAMN12249261; SRA: SRS5083228; GEO: GSM3936749
+Organism:	feces metagenome
+Accession: SAMN12249261	ID: 12249261
+
+151. B39_16S rRNA
+Identifiers:	BioSample: SAMN12249260; SRA: SRS5083227; GEO: GSM3936750
+Organism:	feces metagenome
+Accession: SAMN12249260	ID: 12249260
+
+152. B4_16S rRNA
+Identifiers:	BioSample: SAMN12249259; SRA: SRS5083229; GEO: GSM3936751
+Organism:	feces metagenome
+Accession: SAMN12249259	ID: 12249259
+
+153. B40_16S rRNA
+Identifiers:	BioSample: SAMN12249258; SRA: SRS5083230; GEO: GSM3936752
+Organism:	feces metagenome
+Accession: SAMN12249258	ID: 12249258
+
+154. B42_16S rRNA
+Identifiers:	BioSample: SAMN12249257; SRA: SRS5083231; GEO: GSM3936753
+Organism:	feces metagenome
+Accession: SAMN12249257	ID: 12249257
+
+155. A140_16S rRNA
+Identifiers:	BioSample: SAMN12249256; SRA: SRS5083116; GEO: GSM3936558
+Organism:	feces metagenome
+Accession: SAMN12249256	ID: 12249256
+
+156. A141_16S rRNA
+Identifiers:	BioSample: SAMN12249255; SRA: SRS5083117; GEO: GSM3936559
+Organism:	feces metagenome
+Accession: SAMN12249255	ID: 12249255
+
+157. A142_16S rRNA
+Identifiers:	BioSample: SAMN12249254; SRA: SRS5083118; GEO: GSM3936560
+Organism:	feces metagenome
+Accession: SAMN12249254	ID: 12249254
+
+158. A143_16S rRNA
+Identifiers:	BioSample: SAMN12249253; SRA: SRS5083119; GEO: GSM3936561
+Organism:	feces metagenome
+Accession: SAMN12249253	ID: 12249253
+
+159. A144_16S rRNA
+Identifiers:	BioSample: SAMN12249252; SRA: SRS5083120; GEO: GSM3936562
+Organism:	feces metagenome
+Accession: SAMN12249252	ID: 12249252
+
+160. A145_16S rRNA
+Identifiers:	BioSample: SAMN12249251; SRA: SRS5083121; GEO: GSM3936563
+Organism:	feces metagenome
+Accession: SAMN12249251	ID: 12249251
+
+161. A146_16S rRNA
+Identifiers:	BioSample: SAMN12249250; SRA: SRS5083122; GEO: GSM3936564
+Organism:	feces metagenome
+Accession: SAMN12249250	ID: 12249250
+
+162. A147_16S rRNA
+Identifiers:	BioSample: SAMN12249249; SRA: SRS5083123; GEO: GSM3936565
+Organism:	feces metagenome
+Accession: SAMN12249249	ID: 12249249
+
+163. A148_16S rRNA
+Identifiers:	BioSample: SAMN12249248; SRA: SRS5083140; GEO: GSM3936566
+Organism:	feces metagenome
+Accession: SAMN12249248	ID: 12249248
+
+164. A149_16S rRNA
+Identifiers:	BioSample: SAMN12249247; SRA: SRS5083142; GEO: GSM3936567
+Organism:	feces metagenome
+Accession: SAMN12249247	ID: 12249247
+
+165. A150_16S rRNA
+Identifiers:	BioSample: SAMN12249246; SRA: SRS5083141; GEO: GSM3936568
+Organism:	feces metagenome
+Accession: SAMN12249246	ID: 12249246
+
+166. A151_16S rRNA
+Identifiers:	BioSample: SAMN12249245; SRA: SRS5083143; GEO: GSM3936569
+Organism:	feces metagenome
+Accession: SAMN12249245	ID: 12249245
+
+167. B151_16S rRNA
+Identifiers:	BioSample: SAMN12249244; SRA: SRS5083158; GEO: GSM3936712
+Organism:	feces metagenome
+Accession: SAMN12249244	ID: 12249244
+
+168. B152_16S rRNA
+Identifiers:	BioSample: SAMN12249243; SRA: SRS5083159; GEO: GSM3936713
+Organism:	feces metagenome
+Accession: SAMN12249243	ID: 12249243
+
+169. B153_16S rRNA
+Identifiers:	BioSample: SAMN12249242; SRA: SRS5083160; GEO: GSM3936714
+Organism:	feces metagenome
+Accession: SAMN12249242	ID: 12249242
+
+170. B154_16S rRNA
+Identifiers:	BioSample: SAMN12249241; SRA: SRS5083161; GEO: GSM3936715
+Organism:	feces metagenome
+Accession: SAMN12249241	ID: 12249241
+
+171. B155_16S rRNA
+Identifiers:	BioSample: SAMN12249240; SRA: SRS5083162; GEO: GSM3936716
+Organism:	feces metagenome
+Accession: SAMN12249240	ID: 12249240
+
+172. B156_16S rRNA
+Identifiers:	BioSample: SAMN12249239; SRA: SRS5083163; GEO: GSM3936717
+Organism:	feces metagenome
+Accession: SAMN12249239	ID: 12249239
+
+173. B157_16S rRNA
+Identifiers:	BioSample: SAMN12249238; SRA: SRS5083164; GEO: GSM3936718
+Organism:	feces metagenome
+Accession: SAMN12249238	ID: 12249238
+
+174. B158_16S rRNA
+Identifiers:	BioSample: SAMN12249237; SRA: SRS5083165; GEO: GSM3936719
+Organism:	feces metagenome
+Accession: SAMN12249237	ID: 12249237
+
+175. B159_16S rRNA
+Identifiers:	BioSample: SAMN12249236; SRA: SRS5083167; GEO: GSM3936720
+Organism:	feces metagenome
+Accession: SAMN12249236	ID: 12249236
+
+176. B16_16S rRNA
+Identifiers:	BioSample: SAMN12249235; SRA: SRS5083166; GEO: GSM3936721
+Organism:	feces metagenome
+Accession: SAMN12249235	ID: 12249235
+
+177. B160_16S rRNA
+Identifiers:	BioSample: SAMN12249234; SRA: SRS5083168; GEO: GSM3936722
+Organism:	feces metagenome
+Accession: SAMN12249234	ID: 12249234
+
+178. B161_16S rRNA
+Identifiers:	BioSample: SAMN12249233; SRA: SRS5083169; GEO: GSM3936723
+Organism:	feces metagenome
+Accession: SAMN12249233	ID: 12249233
+
+179. B162_16S rRNA
+Identifiers:	BioSample: SAMN12249232; SRA: SRS5083170; GEO: GSM3936724
+Organism:	feces metagenome
+Accession: SAMN12249232	ID: 12249232
+
+180. B163_16S rRNA
+Identifiers:	BioSample: SAMN12249231; SRA: SRS5083171; GEO: GSM3936725
+Organism:	feces metagenome
+Accession: SAMN12249231	ID: 12249231
+
+181. B164_16S rRNA
+Identifiers:	BioSample: SAMN12249230; SRA: SRS5083188; GEO: GSM3936726
+Organism:	feces metagenome
+Accession: SAMN12249230	ID: 12249230
+
+182. B165_16S rRNA
+Identifiers:	BioSample: SAMN12249229; SRA: SRS5083189; GEO: GSM3936727
+Organism:	feces metagenome
+Accession: SAMN12249229	ID: 12249229
+
+183. B166_16S rRNA
+Identifiers:	BioSample: SAMN12249228; SRA: SRS5083190; GEO: GSM3936728
+Organism:	feces metagenome
+Accession: SAMN12249228	ID: 12249228
+
+184. B17_16S rRNA
+Identifiers:	BioSample: SAMN12249227; SRA: SRS5083191; GEO: GSM3936729
+Organism:	feces metagenome
+Accession: SAMN12249227	ID: 12249227
+
+185. B18_16S rRNA
+Identifiers:	BioSample: SAMN12249226; SRA: SRS5083192; GEO: GSM3936730
+Organism:	feces metagenome
+Accession: SAMN12249226	ID: 12249226
+
+186. B19_16S rRNA
+Identifiers:	BioSample: SAMN12249225; SRA: SRS5083193; GEO: GSM3936731
+Organism:	feces metagenome
+Accession: SAMN12249225	ID: 12249225
+
+187. B2_16S rRNA
+Identifiers:	BioSample: SAMN12249224; SRA: SRS5083194; GEO: GSM3936732
+Organism:	feces metagenome
+Accession: SAMN12249224	ID: 12249224
+
+188. B20_16S rRNA
+Identifiers:	BioSample: SAMN12249223; SRA: SRS5083196; GEO: GSM3936733
+Organism:	feces metagenome
+Accession: SAMN12249223	ID: 12249223
+
+189. B106_16S rRNA
+Identifiers:	BioSample: SAMN12249222; SRA: SRS5083336; GEO: GSM3936668
+Organism:	feces metagenome
+Accession: SAMN12249222	ID: 12249222
+
+190. B107_16S rRNA
+Identifiers:	BioSample: SAMN12249221; SRA: SRS5083337; GEO: GSM3936669
+Organism:	feces metagenome
+Accession: SAMN12249221	ID: 12249221
+
+191. B108_16S rRNA
+Identifiers:	BioSample: SAMN12249220; SRA: SRS5083338; GEO: GSM3936670
+Organism:	feces metagenome
+Accession: SAMN12249220	ID: 12249220
+
+192. B138_16S rRNA
+Identifiers:	BioSample: SAMN12249219; SRA: SRS5083129; GEO: GSM3936699
+Organism:	feces metagenome
+Accession: SAMN12249219	ID: 12249219
+
+193. B139_16S rRNA
+Identifiers:	BioSample: SAMN12249218; SRA: SRS5083130; GEO: GSM3936700
+Organism:	feces metagenome
+Accession: SAMN12249218	ID: 12249218
+
+194. B14_16S rRNA
+Identifiers:	BioSample: SAMN12249217; SRA: SRS5083131; GEO: GSM3936701
+Organism:	feces metagenome
+Accession: SAMN12249217	ID: 12249217
+
+195. B141_16S rRNA
+Identifiers:	BioSample: SAMN12249216; SRA: SRS5083132; GEO: GSM3936702
+Organism:	feces metagenome
+Accession: SAMN12249216	ID: 12249216
+
+196. B142_16S rRNA
+Identifiers:	BioSample: SAMN12249215; SRA: SRS5083133; GEO: GSM3936703
+Organism:	feces metagenome
+Accession: SAMN12249215	ID: 12249215
+
+197. B143_16S rRNA
+Identifiers:	BioSample: SAMN12249214; SRA: SRS5083134; GEO: GSM3936704
+Organism:	feces metagenome
+Accession: SAMN12249214	ID: 12249214
+
+198. B144_16S rRNA
+Identifiers:	BioSample: SAMN12249213; SRA: SRS5083135; GEO: GSM3936705
+Organism:	feces metagenome
+Accession: SAMN12249213	ID: 12249213
+
+199. B145_16S rRNA
+Identifiers:	BioSample: SAMN12249212; SRA: SRS5083136; GEO: GSM3936706
+Organism:	feces metagenome
+Accession: SAMN12249212	ID: 12249212
+
+200. B147_16S rRNA
+Identifiers:	BioSample: SAMN12249211; SRA: SRS5083137; GEO: GSM3936707
+Organism:	feces metagenome
+Accession: SAMN12249211	ID: 12249211
+
+201. B148_16S rRNA
+Identifiers:	BioSample: SAMN12249210; SRA: SRS5083138; GEO: GSM3936708
+Organism:	feces metagenome
+Accession: SAMN12249210	ID: 12249210
+
+202. B149_16S rRNA
+Identifiers:	BioSample: SAMN12249209; SRA: SRS5083139; GEO: GSM3936709
+Organism:	feces metagenome
+Accession: SAMN12249209	ID: 12249209
+
+203. B15_16S rRNA
+Identifiers:	BioSample: SAMN12249208; SRA: SRS5083156; GEO: GSM3936710
+Organism:	feces metagenome
+Accession: SAMN12249208	ID: 12249208
+
+204. B150_16S rRNA
+Identifiers:	BioSample: SAMN12249207; SRA: SRS5083157; GEO: GSM3936711
+Organism:	feces metagenome
+Accession: SAMN12249207	ID: 12249207
+
+205. B71_16S rRNA
+Identifiers:	BioSample: SAMN12249206; SRA: SRS5083290; GEO: GSM3936780
+Organism:	feces metagenome
+Accession: SAMN12249206	ID: 12249206
+
+206. B72_16S rRNA
+Identifiers:	BioSample: SAMN12249205; SRA: SRS5083291; GEO: GSM3936781
+Organism:	feces metagenome
+Accession: SAMN12249205	ID: 12249205
+
+207. B73_16S rRNA
+Identifiers:	BioSample: SAMN12249204; SRA: SRS5083292; GEO: GSM3936782
+Organism:	feces metagenome
+Accession: SAMN12249204	ID: 12249204
+
+208. A8_16S rRNA
+Identifiers:	BioSample: SAMN12249203; SRA: SRS5083281; GEO: GSM3936643
+Organism:	feces metagenome
+Accession: SAMN12249203	ID: 12249203
+
+209. A80_16S rRNA
+Identifiers:	BioSample: SAMN12249202; SRA: SRS5083283; GEO: GSM3936644
+Organism:	feces metagenome
+Accession: SAMN12249202	ID: 12249202
+
+210. A82_16S rRNA
+Identifiers:	BioSample: SAMN12249201; SRA: SRS5083282; GEO: GSM3936645
+Organism:	feces metagenome
+Accession: SAMN12249201	ID: 12249201
+
+211. A83_16S rRNA
+Identifiers:	BioSample: SAMN12249200; SRA: SRS5083300; GEO: GSM3936646
+Organism:	feces metagenome
+Accession: SAMN12249200	ID: 12249200
+
+212. A84_16S rRNA
+Identifiers:	BioSample: SAMN12249199; SRA: SRS5083301; GEO: GSM3936647
+Organism:	feces metagenome
+Accession: SAMN12249199	ID: 12249199
+
+213. A85_16S rRNA
+Identifiers:	BioSample: SAMN12249198; SRA: SRS5083302; GEO: GSM3936648
+Organism:	feces metagenome
+Accession: SAMN12249198	ID: 12249198
+
+214. A86_16S rRNA
+Identifiers:	BioSample: SAMN12249197; SRA: SRS5083303; GEO: GSM3936649
+Organism:	feces metagenome
+Accession: SAMN12249197	ID: 12249197
+
+215. A87_16S rRNA
+Identifiers:	BioSample: SAMN12249196; SRA: SRS5083304; GEO: GSM3936650
+Organism:	feces metagenome
+Accession: SAMN12249196	ID: 12249196
+
+216. A88_16S rRNA
+Identifiers:	BioSample: SAMN12249195; SRA: SRS5083305; GEO: GSM3936651
+Organism:	feces metagenome
+Accession: SAMN12249195	ID: 12249195
+
+217. A89_16S rRNA
+Identifiers:	BioSample: SAMN12249194; SRA: SRS5083306; GEO: GSM3936652
+Organism:	feces metagenome
+Accession: SAMN12249194	ID: 12249194
+
+218. A9_16S rRNA
+Identifiers:	BioSample: SAMN12249193; SRA: SRS5083307; GEO: GSM3936653
+Organism:	feces metagenome
+Accession: SAMN12249193	ID: 12249193
+
+219. A90_16S rRNA
+Identifiers:	BioSample: SAMN12249192; SRA: SRS5083308; GEO: GSM3936654
+Organism:	feces metagenome
+Accession: SAMN12249192	ID: 12249192
+
+220. A91_16S rRNA
+Identifiers:	BioSample: SAMN12249191; SRA: SRS5083309; GEO: GSM3936655
+Organism:	feces metagenome
+Accession: SAMN12249191	ID: 12249191
+
+221. A92_16S rRNA
+Identifiers:	BioSample: SAMN12249190; SRA: SRS5083310; GEO: GSM3936656
+Organism:	feces metagenome
+Accession: SAMN12249190	ID: 12249190
+
+222. A93_16S rRNA
+Identifiers:	BioSample: SAMN12249189; SRA: SRS5083312; GEO: GSM3936657
+Organism:	feces metagenome
+Accession: SAMN12249189	ID: 12249189
+
+223. A95_16S rRNA
+Identifiers:	BioSample: SAMN12249188; SRA: SRS5083311; GEO: GSM3936658
+Organism:	feces metagenome
+Accession: SAMN12249188	ID: 12249188
+
+224. A97_16S rRNA
+Identifiers:	BioSample: SAMN12249187; SRA: SRS5083313; GEO: GSM3936659
+Organism:	feces metagenome
+Accession: SAMN12249187	ID: 12249187
+
+225. A99_16S rRNA
+Identifiers:	BioSample: SAMN12249186; SRA: SRS5083314; GEO: GSM3936660
+Organism:	feces metagenome
+Accession: SAMN12249186	ID: 12249186
+
+226. B1_16S rRNA
+Identifiers:	BioSample: SAMN12249185; SRA: SRS5083315; GEO: GSM3936661
+Organism:	feces metagenome
+Accession: SAMN12249185	ID: 12249185
+
+227. B10_16S rRNA
+Identifiers:	BioSample: SAMN12249184; SRA: SRS5083330; GEO: GSM3936662
+Organism:	feces metagenome
+Accession: SAMN12249184	ID: 12249184
+
+228. B100_16S rRNA
+Identifiers:	BioSample: SAMN12249183; SRA: SRS5083331; GEO: GSM3936663
+Organism:	feces metagenome
+Accession: SAMN12249183	ID: 12249183
+
+229. B101_16S rRNA
+Identifiers:	BioSample: SAMN12249182; SRA: SRS5083332; GEO: GSM3936664
+Organism:	feces metagenome
+Accession: SAMN12249182	ID: 12249182
+
+230. B103_16S rRNA
+Identifiers:	BioSample: SAMN12249181; SRA: SRS5083333; GEO: GSM3936665
+Organism:	feces metagenome
+Accession: SAMN12249181	ID: 12249181
+
+231. B104_16S rRNA
+Identifiers:	BioSample: SAMN12249180; SRA: SRS5083334; GEO: GSM3936666
+Organism:	feces metagenome
+Accession: SAMN12249180	ID: 12249180
+
+232. B105_16S rRNA
+Identifiers:	BioSample: SAMN12249179; SRA: SRS5083335; GEO: GSM3936667
+Organism:	feces metagenome
+Accession: SAMN12249179	ID: 12249179
+
+233. A70_16S rRNA
+Identifiers:	BioSample: SAMN12249178; SRA: SRS5083273; GEO: GSM3936635
+Organism:	feces metagenome
+Accession: SAMN12249178	ID: 12249178
+
+234. A71_16S rRNA
+Identifiers:	BioSample: SAMN12249177; SRA: SRS5083274; GEO: GSM3936636
+Organism:	feces metagenome
+Accession: SAMN12249177	ID: 12249177
+
+235. A72_16S rRNA
+Identifiers:	BioSample: SAMN12249176; SRA: SRS5083275; GEO: GSM3936637
+Organism:	feces metagenome
+Accession: SAMN12249176	ID: 12249176
+
+236. A76_16S rRNA
+Identifiers:	BioSample: SAMN12249175; SRA: SRS5083278; GEO: GSM3936640
+Organism:	feces metagenome
+Accession: SAMN12249175	ID: 12249175
+
+237. A77_16S rRNA
+Identifiers:	BioSample: SAMN12249174; SRA: SRS5083279; GEO: GSM3936641
+Organism:	feces metagenome
+Accession: SAMN12249174	ID: 12249174
+
+238. A78_16S rRNA
+Identifiers:	BioSample: SAMN12249173; SRA: SRS5083280; GEO: GSM3936642
+Organism:	feces metagenome
+Accession: SAMN12249173	ID: 12249173
+
+239. B44_16S rRNA
+Identifiers:	BioSample: SAMN12249172; SRA: SRS5083232; GEO: GSM3936754
+Organism:	feces metagenome
+Accession: SAMN12249172	ID: 12249172
+
+240. B45_16S rRNA
+Identifiers:	BioSample: SAMN12249171; SRA: SRS5083233; GEO: GSM3936755
+Organism:	feces metagenome
+Accession: SAMN12249171	ID: 12249171
+
+241. B49_16S rRNA
+Identifiers:	BioSample: SAMN12249170; SRA: SRS5083252; GEO: GSM3936758
+Organism:	feces metagenome
+Accession: SAMN12249170	ID: 12249170
+
+242. B5_16S rRNA
+Identifiers:	BioSample: SAMN12249169; SRA: SRS5083253; GEO: GSM3936759
+Organism:	feces metagenome
+Accession: SAMN12249169	ID: 12249169
+
+243. B50_16S rRNA
+Identifiers:	BioSample: SAMN12249168; SRA: SRS5083254; GEO: GSM3936760
+Organism:	feces metagenome
+Accession: SAMN12249168	ID: 12249168
+
+244. B51_16S rRNA
+Identifiers:	BioSample: SAMN12249167; SRA: SRS5083255; GEO: GSM3936761
+Organism:	feces metagenome
+Accession: SAMN12249167	ID: 12249167
+
+245. B46_16S rRNA
+Identifiers:	BioSample: SAMN12249166; SRA: SRS5083234; GEO: GSM3936756
+Organism:	feces metagenome
+Accession: SAMN12249166	ID: 12249166
+
+246. B48_16S rRNA
+Identifiers:	BioSample: SAMN12249165; SRA: SRS5083235; GEO: GSM3936757
+Organism:	feces metagenome
+Accession: SAMN12249165	ID: 12249165
+
+247. B52_16S rRNA
+Identifiers:	BioSample: SAMN12249164; SRA: SRS5083256; GEO: GSM3936762
+Organism:	feces metagenome
+Accession: SAMN12249164	ID: 12249164
+
+248. B54_16S rRNA
+Identifiers:	BioSample: SAMN12249163; SRA: SRS5083257; GEO: GSM3936763
+Organism:	feces metagenome
+Accession: SAMN12249163	ID: 12249163
+
+249. B55_16S rRNA
+Identifiers:	BioSample: SAMN12249162; SRA: SRS5083258; GEO: GSM3936764
+Organism:	feces metagenome
+Accession: SAMN12249162	ID: 12249162
+
+250. B56_16S rRNA
+Identifiers:	BioSample: SAMN12249161; SRA: SRS5083259; GEO: GSM3936765
+Organism:	feces metagenome
+Accession: SAMN12249161	ID: 12249161
+
+251. B57_16S rRNA
+Identifiers:	BioSample: SAMN12249160; SRA: SRS5083260; GEO: GSM3936766
+Organism:	feces metagenome
+Accession: SAMN12249160	ID: 12249160
+
+252. B58_16S rRNA
+Identifiers:	BioSample: SAMN12249159; SRA: SRS5083262; GEO: GSM3936767
+Organism:	feces metagenome
+Accession: SAMN12249159	ID: 12249159
+
+253. B59_16S rRNA
+Identifiers:	BioSample: SAMN12249158; SRA: SRS5083261; GEO: GSM3936768
+Organism:	feces metagenome
+Accession: SAMN12249158	ID: 12249158
+
+254. B6_16S rRNA
+Identifiers:	BioSample: SAMN12249157; SRA: SRS5083263; GEO: GSM3936769
+Organism:	feces metagenome
+Accession: SAMN12249157	ID: 12249157
+
+255. B60_16S rRNA
+Identifiers:	BioSample: SAMN12249156; SRA: SRS5083264; GEO: GSM3936770
+Organism:	feces metagenome
+Accession: SAMN12249156	ID: 12249156
+
+256. B61_16S rRNA
+Identifiers:	BioSample: SAMN12249155; SRA: SRS5083265; GEO: GSM3936771
+Organism:	feces metagenome
+Accession: SAMN12249155	ID: 12249155
+
+257. B62_16S rRNA
+Identifiers:	BioSample: SAMN12249154; SRA: SRS5083266; GEO: GSM3936772
+Organism:	feces metagenome
+Accession: SAMN12249154	ID: 12249154
+
+258. B63_16S rRNA
+Identifiers:	BioSample: SAMN12249153; SRA: SRS5083267; GEO: GSM3936773
+Organism:	feces metagenome
+Accession: SAMN12249153	ID: 12249153
+
+259. B64_16S rRNA
+Identifiers:	BioSample: SAMN12249152; SRA: SRS5083284; GEO: GSM3936774
+Organism:	feces metagenome
+Accession: SAMN12249152	ID: 12249152
+
+260. B66_16S rRNA
+Identifiers:	BioSample: SAMN12249151; SRA: SRS5083285; GEO: GSM3936775
+Organism:	feces metagenome
+Accession: SAMN12249151	ID: 12249151
+
+261. B67_16S rRNA
+Identifiers:	BioSample: SAMN12249150; SRA: SRS5083286; GEO: GSM3936776
+Organism:	feces metagenome
+Accession: SAMN12249150	ID: 12249150
+
+262. B68_16S rRNA
+Identifiers:	BioSample: SAMN12249149; SRA: SRS5083287; GEO: GSM3936777
+Organism:	feces metagenome
+Accession: SAMN12249149	ID: 12249149
+
+263. B7_16S rRNA
+Identifiers:	BioSample: SAMN12249148; SRA: SRS5083288; GEO: GSM3936778
+Organism:	feces metagenome
+Accession: SAMN12249148	ID: 12249148
+
+264. B70_16S rRNA
+Identifiers:	BioSample: SAMN12249147; SRA: SRS5083289; GEO: GSM3936779
+Organism:	feces metagenome
+Accession: SAMN12249147	ID: 12249147
+
+265. A50_16S rRNA
+Identifiers:	BioSample: SAMN12249146; SRA: SRS5083237; GEO: GSM3936615
+Organism:	feces metagenome
+Accession: SAMN12249146	ID: 12249146
+
+266. A51_16S rRNA
+Identifiers:	BioSample: SAMN12249145; SRA: SRS5083238; GEO: GSM3936616
+Organism:	feces metagenome
+Accession: SAMN12249145	ID: 12249145
+
+267. A52_16S rRNA
+Identifiers:	BioSample: SAMN12249144; SRA: SRS5083239; GEO: GSM3936617
+Organism:	feces metagenome
+Accession: SAMN12249144	ID: 12249144
+
+268. A53_16S rRNA
+Identifiers:	BioSample: SAMN12249143; SRA: SRS5083241; GEO: GSM3936618
+Organism:	feces metagenome
+Accession: SAMN12249143	ID: 12249143
+
+269. A54_16S rRNA
+Identifiers:	BioSample: SAMN12249142; SRA: SRS5083240; GEO: GSM3936619
+Organism:	feces metagenome
+Accession: SAMN12249142	ID: 12249142
+
+270. A55_16S rRNA
+Identifiers:	BioSample: SAMN12249141; SRA: SRS5083242; GEO: GSM3936620
+Organism:	feces metagenome
+Accession: SAMN12249141	ID: 12249141
+
+271. A57_16S rRNA
+Identifiers:	BioSample: SAMN12249140; SRA: SRS5083243; GEO: GSM3936621
+Organism:	feces metagenome
+Accession: SAMN12249140	ID: 12249140
+
+272. A58_16S rRNA
+Identifiers:	BioSample: SAMN12249139; SRA: SRS5083245; GEO: GSM3936622
+Organism:	feces metagenome
+Accession: SAMN12249139	ID: 12249139
+
+273. A59_16S rRNA
+Identifiers:	BioSample: SAMN12249138; SRA: SRS5083244; GEO: GSM3936623
+Organism:	feces metagenome
+Accession: SAMN12249138	ID: 12249138
+
+274. A6_16S rRNA
+Identifiers:	BioSample: SAMN12249137; SRA: SRS5083246; GEO: GSM3936624
+Organism:	feces metagenome
+Accession: SAMN12249137	ID: 12249137
+
+275. A60_16S rRNA
+Identifiers:	BioSample: SAMN12249136; SRA: SRS5083247; GEO: GSM3936625
+Organism:	feces metagenome
+Accession: SAMN12249136	ID: 12249136
+
+276. A61_16S rRNA
+Identifiers:	BioSample: SAMN12249135; SRA: SRS5083248; GEO: GSM3936626
+Organism:	feces metagenome
+Accession: SAMN12249135	ID: 12249135
+
+277. A62_16S rRNA
+Identifiers:	BioSample: SAMN12249134; SRA: SRS5083249; GEO: GSM3936627
+Organism:	feces metagenome
+Accession: SAMN12249134	ID: 12249134
+
+278. A63_16S rRNA
+Identifiers:	BioSample: SAMN12249133; SRA: SRS5083251; GEO: GSM3936628
+Organism:	feces metagenome
+Accession: SAMN12249133	ID: 12249133
+
+279. A65_16S rRNA
+Identifiers:	BioSample: SAMN12249132; SRA: SRS5083250; GEO: GSM3936629
+Organism:	feces metagenome
+Accession: SAMN12249132	ID: 12249132
+
+280. A66_16S rRNA
+Identifiers:	BioSample: SAMN12249131; SRA: SRS5083268; GEO: GSM3936630
+Organism:	feces metagenome
+Accession: SAMN12249131	ID: 12249131
+
+281. A67_16S rRNA
+Identifiers:	BioSample: SAMN12249130; SRA: SRS5083269; GEO: GSM3936631
+Organism:	feces metagenome
+Accession: SAMN12249130	ID: 12249130
+
+282. A68_16S rRNA
+Identifiers:	BioSample: SAMN12249129; SRA: SRS5083270; GEO: GSM3936632
+Organism:	feces metagenome
+Accession: SAMN12249129	ID: 12249129
+
+283. A73_16S rRNA
+Identifiers:	BioSample: SAMN12249128; SRA: SRS5083276; GEO: GSM3936638
+Organism:	feces metagenome
+Accession: SAMN12249128	ID: 12249128
+
+284. A75_16S rRNA
+Identifiers:	BioSample: SAMN12249127; SRA: SRS5083277; GEO: GSM3936639
+Organism:	feces metagenome
+Accession: SAMN12249127	ID: 12249127
+
+285. A69_16S rRNA
+Identifiers:	BioSample: SAMN12249126; SRA: SRS5083271; GEO: GSM3936633
+Organism:	feces metagenome
+Accession: SAMN12249126	ID: 12249126
+
+286. A7_16S rRNA
+Identifiers:	BioSample: SAMN12249125; SRA: SRS5083272; GEO: GSM3936634
+Organism:	feces metagenome
+Accession: SAMN12249125	ID: 12249125
